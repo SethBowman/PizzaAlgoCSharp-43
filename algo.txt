@@ -1,3 +1,4 @@
 1. Decide where you want to order
 2. Order the pizza
 3. Pick up the pizza
+4. Repeat the process
